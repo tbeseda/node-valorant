@@ -1,6 +1,6 @@
 {
   "name": "valorant",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,10 @@
     "api"
   ],
   "author": "Taylor Beseda",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/tbeseda/node-valorant",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/tbeseda/node-valorant.git"
+  }
 }
